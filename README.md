@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Oliver 👋
 
-<!--
-**oliver-solomon/oliver-solomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cloud Security professional based in Queensland, Australia, currently building hands-on skills in AWS, cybersecurity, and cloud security.
 
-Here are some ideas to get you started:
+- AWS Certified Cloud Practitioner
+- Studying CompTIA Security+ (SY0-701)
+- Building hands-on cloud security projects
+- Learning AWS security, IAM, networking, Linux, Microsoft Sentinel, and KQL
+- Working toward my first role in Cloud Security / Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### AWS ScoutSuite Cloud Security Assessment
+Built an AWS environment, introduced intentional security misconfigurations, used ScoutSuite to identify and investigate findings, remediated the selected issues, and validated the fixes with a final security scan.
+### ☁️ [AWS ScoutSuite Cloud Security Assessment](https://github.com/oliver-solomon/aws-cloud-security-audit)
+More projects coming soon!
